@@ -1,0 +1,604 @@
+[
+  {
+    "Name": "Katz Lawyers",
+    "Phone": "(718) 876-8105",
+    "Address": "36 Richmond Terrace, Staten Island, NY 10301, USA",
+    "Website": "http://www.katzlawyersnyc.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Stephen Einstein & Associates",
+    "Phone": "(212) 267-3550",
+    "Address": "39 Broadway #1250, New York, NY 10006, USA",
+    "Website": "http://www.stepheneinstein.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Cellino & Barnes",
+    "Phone": "(800) 888-8888",
+    "Address": "420 Lexington Ave Ste. 2140, New York, NY 10170, USA",
+    "Website": "http://www.cellinoandbarnes.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Treyvus & Konoski, PC",
+    "Phone": "(212) 897-5832",
+    "Address": "305 Broadway, New York, NY 10007, USA",
+    "Website": "http://www.yourdisabilityattorneys.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Leeds Brown Law, P.C.",
+    "Phone": "(212) 661-4370",
+    "Address": "7th Fl., 40 Broad St, New York, NY 10004, USA",
+    "Website": "https://www.lmblaw.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "The Law Office of Borrelli & Associates, P.L.L.C",
+    "Phone": "(212) 679-5000",
+    "Address": "655 3rd Ave #1821, New York, NY 10017, USA",
+    "Website": "http://www.employmentlawyernewyork.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Young & Ma LLP",
+    "Phone": "(212) 971-9773",
+    "Address": "4, 575 Lexington Ave, New York, NY 10022, USA",
+    "Website": "http://www.youngandma.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Nate Strand",
+    "Phone": "(504) 300-9335",
+    "Address": "373 Park Ave South, Floor 6, New York, NY 10016, USA",
+    "Website": "http://natestrand.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Greenfield Stein & Senior, LLP",
+    "Phone": "(212) 818-9600",
+    "Address": "600 3rd Ave #11, New York, NY 10016, USA",
+    "Website": "http://www.gss-law.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Ball Deborah S",
+    "Phone": "(212) 752-3380",
+    "Address": "880 3rd Ave # 1300, New York, NY 10022, USA",
+    "Website": "http://www.ballnyelderlaw.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "NY Traffic Lawyer",
+    "Phone": "(646) 217-8111",
+    "Address": "80 8th Ave, New York, NY 10011, USA",
+    "Website": "http://www.ny-trafficlawyer.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Katz Lawyers",
+    "Phone": "(212) 747-0606",
+    "Address": "32 Broadway #1405, New York, NY 10004, USA",
+    "Website": "http://www.katzlawyersnyc.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "District Attorney",
+    "Phone": "(212) 864-7884",
+    "Address": "163 W 125th St # 733, New York, NY 10027, USA",
+    "Website": "http://manhattanda.org/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Bronx District Attorney's Office (Satellite Office)",
+    "Phone": "(718) 798-5892",
+    "Address": "4101 White Plains Rd, Bronx, NY 10466, USA",
+    "Website": "http://bronxda.nyc.gov/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Ross, David B - Seyfarth Shaw",
+    "Phone": "(212) 218-5500",
+    "Address": "900 3rd Ave #16, New York, NY 10022, USA",
+    "Website": "http://www.seyfarth.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Pasternack Tilker Ziegler Walsh Stanton & Romano L.L.P.",
+    "Phone": "(347) 926-7104",
+    "Address": "118-35 Queens Blvd #950, Forest Hills, NY 11375, USA",
+    "Website": "https://www.workerslaw.com/queens-ny-lawyers/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Luke D. Lynch Jr.",
+    "Phone": "(212) 269-0927",
+    "Address": "225 Liberty St, New York, NY 10281, USA",
+    "Website": "http://www.damato-lynch.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Lester Schwab Katz & Dwyer Llp",
+    "Phone": "(212) 964-6611",
+    "Address": "27th Floor, 100 Wall St, New York, NY 10005, USA",
+    "Website": "http://www.lskdnylaw.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Law Offices of Neal H Rosenberg",
+    "Phone": "(212) 732-9450",
+    "Address": "22nd Floor,, 111 John St, New York, NY 10038, USA",
+    "Website": "http://www.nyedlaw.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Bernard A. Krooks",
+    "Phone": "(212) 490-2020",
+    "Address": "655 3rd Ave, New York, NY 10017, USA",
+    "Website": "http://www.elderlawnewyork.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Connors and Sullivan, Attorneys at Law, PLLC",
+    "Phone": "(718) 414-6209",
+    "Address": "7408 5th Ave, Brooklyn, NY 11209, USA",
+    "Website": "https://www.connorsandsullivan.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Villanueva & Sanchala Law Firm",
+    "Phone": "(800) 893-9645",
+    "Address": "401 Broadway, New York, NY 10013, USA",
+    "Website": "http://www.villanuevalaw.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Price Law Firm LLC",
+    "Phone": "(212) 675-1125",
+    "Address": "1115 Broadway #1053, New York, NY 10010, USA",
+    "Website": "http://www.pricelawfirmnyc.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Center On International Cooperation",
+    "Phone": "(212) 998-3680",
+    "Address": "9502, 726 Broadway #543, New York, NY 10003, USA",
+    "Website": "http://www.cic.nyu.edu/",
+    "Google Rating": 4
+  },
+  {
+    "Name": "Public Advocate For The City Of New York",
+    "Phone": "(212) 669-7200",
+    "Address": "1 Centre St #1500, New York, NY 10007, USA",
+    "Website": "http://advocate.nyc.gov/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "NY Gun: Law Offices of John S. Chambers",
+    "Phone": "(212) 645-5279",
+    "Address": "89 5th Ave, New York, NY 10003, USA",
+    "Website": "http://www.nygun.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Silberstein, Awad & Miklos, P.C.",
+    "Phone": "(212) 233-6600",
+    "Address": "140 Broadway, New York, NY 10005, USA",
+    "Website": "http://www.ask4sam.net/",
+    "Google Rating": 4
+  },
+  {
+    "Name": "D'Agostino, Levine & Landesman, L.L.P.",
+    "Phone": "(212) 564-9800",
+    "Address": "345 7th Ave, New York, NY 10001, USA",
+    "Website": "http://www.dagll.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Bradshaw & Associates, P.C.",
+    "Phone": "(415) 433-4800",
+    "Address": "1388 Sutter St #920, San Francisco, CA 94109, USA",
+    "Website": "http://www.bradshawassociates.com/?utm_source=google&utm_medium=organic&utm_campaign=google_plus_listing",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Tenax Law Group",
+    "Phone": "(510) 234-2808",
+    "Address": "145 Park Pl, Richmond, CA 94801, USA",
+    "Website": "http://tenaxlawgroup.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Law Offices Of Brian A. Ford",
+    "Phone": "(415) 986-5591",
+    "Address": "506 Broadway, San Francisco, CA 94133, USA",
+    "Website": "http://www.pier5law.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Dentons",
+    "Phone": "(415) 882-5000",
+    "Address": "1999 Harrison St Suite 1300, Oakland, CA 94612, USA",
+    "Website": "https://www.dentons.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Michael D. Ross, Attorney at Law",
+    "Phone": "(415) 345-1335",
+    "Address": "505 Montgomery Street, 11th Floor, San Francisco, CA 94111, USA",
+    "Website": "http://www.mikerosslaw.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Bornstein Law",
+    "Phone": "(415) 409-7611",
+    "Address": "507 Polk St, San Francisco, CA 94102, USA",
+    "Website": "http://www.bornstein.law/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Hallinan & Hallinan Pro Law",
+    "Phone": "(415) 863-1520",
+    "Address": "345 Franklin St #200, San Francisco, CA 94102, USA",
+    "Website": "http://www.hallinan-law.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Ruben Law Firm",
+    "Phone": "(415) 399-6830",
+    "Address": "625 Market St, San Francisco, CA 94105, USA",
+    "Website": "https://www.rubenlawfirm.com/",
+    "Google Rating": 4
+  },
+  {
+    "Name": "Lerner Poole, LLP",
+    "Phone": "(415) 391-6000",
+    "Address": "535 Pacific Ave, San Francisco, CA 94133, USA",
+    "Website": "http://www.cafamilylaw.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "LaPorte Law Firm",
+    "Phone": "(408) 293-8810",
+    "Address": "125 S Market St #1075, San Jose, CA 95113, USA",
+    "Website": "http://www.laportelawfirm.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Law Officess of Kevin M. Sullivan",
+    "Phone": "(415) 434-1184",
+    "Address": "351 California St Suite 300, San Francisco, CA 94104, USA",
+    "Website": "https://law-officess-of-kevin-m-sullivan.business.site/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Kuehn Law IP",
+    "Phone": "(415) 800-2977",
+    "Address": "981 Mission St, San Francisco, CA 94103, USA",
+    "Website": "http://www.kuehnlawip.com/",
+    "Google Rating": 4
+  },
+  {
+    "Name": "Luscutoff Lendormy & Associates",
+    "Phone": "(415) 989-7500",
+    "Address": "601 Montgomery St #1088, San Francisco, CA 94111, USA",
+    "Website": "http://www.llalegal.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Construction Law Group",
+    "Phone": "(415) 537-3900",
+    "Address": "303 2nd St #300, San Francisco, CA 94107, USA",
+    "Website": "http://members.calbar.ca.gov/fal/Member/Detail/103225",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Adler & Colvin",
+    "Phone": "(415) 421-7555",
+    "Address": "235 Montgomery St # 1220, San Francisco, CA 94104, USA",
+    "Website": "https://www.adlercolvin.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Michael Rooney Law Office",
+    "Phone": "(415) 533-0282",
+    "Address": "580 California St # 16, San Francisco, CA 94104, USA",
+    "Website": "http://www.mikerooneylaw.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Goldstein Robert L",
+    "Phone": "(415) 391-8700",
+    "Address": "100 Bush St, San Francisco, CA 94104, USA",
+    "Website": "http://www.taxexit.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Fragomen, Del Rey, Bernsen & Loewy, LLP",
+    "Phone": "(415) 986-1446",
+    "Address": "555 Montgomery Street, 4th Floor, San Francisco, CA 94111, USA",
+    "Website": "https://www.fragomen.com/about/offices/us/san-francisco/overview",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Lieff Cabraser Heimann & Bernstein, LLP",
+    "Phone": "(415) 956-1000",
+    "Address": "275 Battery St 29th floor, San Francisco, CA 94111, USA",
+    "Website": "http://www.lieffcabraser.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Kaufman & Kaufman",
+    "Phone": "(415) 956-7770",
+    "Address": "369 Pine St Suite 218, San Francisco, CA 94104, USA",
+    "Website": "http://www.kaufmanlawsf.com/Attorneys/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Dannis Woliver Kelley",
+    "Phone": "(415) 543-4111",
+    "Address": "275 Battery St, San Francisco, CA 94111, USA",
+    "Website": "http://www.dwkesq.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Littler Mendelson P.C.",
+    "Phone": "(415) 433-1940",
+    "Address": "34th Floor, 333 Bush St, San Francisco, CA 94104, USA",
+    "Website": "http://www.littler.com/locations/san-francisco",
+    "Google Rating": 4
+  },
+  {
+    "Name": "The State Bar of California",
+    "Phone": "(415) 538-2000",
+    "Address": "180 Howard St, San Francisco, CA 94105, USA",
+    "Website": "http://www.calbar.ca.gov/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "The Law Offices of Vincent J. Scotto, III",
+    "Phone": "(650) 401-6161",
+    "Address": "700 S Claremont St, San Mateo, CA 94402, USA",
+    "Website": "https://www.scottolaw.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Jeffrey M. Goldberg Law Offices",
+    "Phone": "(888) 396-3914",
+    "Address": "20 N Clark St #3100, Chicago, IL 60602, USA",
+    "Website": "http://www.goldberglaw.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "The Clinton Law Firm",
+    "Phone": "(312) 357-1515",
+    "Address": "111 W Washington St #1437, Chicago, IL 60602, USA",
+    "Website": "https://www.clintonlaw.net/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Leon J. Teichner & Associates, P.C.",
+    "Phone": "(312) 541-2822",
+    "Address": "161 N Clark St Suite 1600, Chicago, IL 60601, USA",
+    "Website": "http://leonlawyer.com/",
+    "Google Rating": 4
+  },
+  {
+    "Name": "Law Office of Stephen L. Richards",
+    "Phone": "(773) 817-6927",
+    "Address": "53 W Jackson Blvd #756, Chicago, IL 60604, USA",
+    "Website": "https://www.richardscriminallaw.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Spilotro Law Group, LLC",
+    "Phone": "(773) 451-9191",
+    "Address": "6160 N Cicero Ave #122, Chicago, IL 60646, USA",
+    "Website": "http://www.spilotrolaw.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Walinski & Associates, P.C.",
+    "Phone": "(312) 704-0771",
+    "Address": "2215 Enterprise Dr #1512, Westchester, IL 60154, USA",
+    "Website": "https://www.walinskilaw.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Elman Law Group LLC",
+    "Phone": "(312) 739-2159",
+    "Address": "212 W Washington St Suite 1208, Chicago, IL 60606, USA",
+    "Website": "https://www.elmanlaw.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Goldberg Law Group",
+    "Phone": "(312) 735-1023",
+    "Address": "120 S Riverside Plaza Suite 1675, Chicago, IL 60606, USA",
+    "Website": "http://www.goldberglawoffice.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Law Offices of Jonathan Merel",
+    "Phone": "(312) 408-7000",
+    "Address": "180 Stetson Ave, Chicago, IL 60601, USA",
+    "Website": "http://www.merelfamilylaw.com/",
+    "Google Rating": 4
+  },
+  {
+    "Name": "Chicago Family Law Group, LLC",
+    "Phone": "(312) 893-5888",
+    "Address": "20 N Clark St #850, Chicago, IL 60602, USA",
+    "Website": "http://www.familylawchicago.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Schiller DuCanto & Fleck LLP",
+    "Phone": "(312) 641-5560",
+    "Address": "200 N LaSalle Dr 30th Floor, Chicago, IL 60601, USA",
+    "Website": "http://www.sdflaw.com/offices/chicago/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Martay Law Office",
+    "Phone": "(312) 372-9022",
+    "Address": "134 N LaSalle St suite 900, Chicago, IL 60602, USA",
+    "Website": "http://www.martaylaw.com/",
+    "Google Rating": 4
+  },
+  {
+    "Name": "Nash Disability Law",
+    "Phone": "(708) 857-2244",
+    "Address": "10704 S Roberts Rd, Palos Hills, IL 60465, USA",
+    "Website": "http://www.nashdisabilitylaw.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Glen Lerner Injury Attorneys",
+    "Phone": "(708) 222-2222",
+    "Address": "9939 S Halsted St, Chicago, IL 60628, USA",
+    "Website": "https://glenlerner.com/chicago-injury/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "People's Law Office",
+    "Phone": "(773) 235-0070",
+    "Address": "1180 N Milwaukee Ave, Chicago, IL 60642, USA",
+    "Website": "http://peopleslawoffice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Foutris Law Office, Ltd.",
+    "Phone": "(312) 212-1200",
+    "Address": "53 West Jackson Boulevard 252, Chicago, IL 60604, USA",
+    "Website": "http://www.civilrightsattorneychicago.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Shaw Legal Services, Ltd.",
+    "Phone": "(773) 549-9500",
+    "Address": "540 W Briar Pl, Chicago, IL 60657, USA",
+    "Website": "http://www.shawlegalservices.com/",
+    "Google Rating": 4
+  },
+  {
+    "Name": "Meyers & Flowers",
+    "Phone": "(312) 214-1017",
+    "Address": "225 W Wacker Dr #1515, Chicago, IL 60606, USA",
+    "Website": "http://www.meyers-flowers.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Law Office Of Lori D Ecker",
+    "Phone": "(312) 855-1880",
+    "Address": "19 South LaSalle Street, S LaSalle St Suite 1600, Chicago, IL 60603, USA",
+    "Website": "http://loriecker.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Mitchell A Kline Law Office",
+    "Phone": "(312) 558-1454",
+    "Address": "203 N LaSalle Dr #2100, Chicago, IL 60601, USA",
+    "Website": "http://www.mitchellkline.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Ansari Tax Law Firm LLC",
+    "Phone": "(312) 265-5626",
+    "Address": "500 N Michigan Ave #600, Chicago, IL 60611, USA",
+    "Website": "http://www.irs-sales-tax-attorney-chicago.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Dr. Gail Petrich, Attorney and Psychologist, LLC",
+    "Phone": "(708) 524-0171",
+    "Address": "30 N Michigan Ave, Chicago, IL 60602, USA",
+    "Website": "http://www.gailpetrich.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Office of the Attorney General",
+    "Phone": "(312) 814-3276",
+    "Address": "100 W Randolph St, Chicago, IL 60601, USA",
+    "Website": "http://illinoisattorneygeneral.gov/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Law Offices of Barry Lowe",
+    "Phone": "(312) 239-3826",
+    "Address": "180 W Washington #400, Chicago, IL 60602, USA",
+    "Website": "http://www.affordablechicagodivorce.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Law Offices of Jeff Whitehead",
+    "Phone": "(312) 648-0473",
+    "Address": "211 W Wacker Dr suite 750, Chicago, IL 60606, USA",
+    "Website": "http://chicagolandbkattorney.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Crossan Intellectual Property Law, LLC",
+    "Phone": "(312) 498-2365",
+    "Address": "875 N Michigan Ave #3216, Chicago, IL 60611, USA",
+    "Website": "http://www.crossaniplaw.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Global IP Law Group LLC",
+    "Phone": "(312) 241-1500",
+    "Address": "55 W Monroe St, Chicago, IL 60603, USA",
+    "Website": "http://www.giplg.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Immigration Attorneys, LLP",
+    "Phone": "(312) 661-9100",
+    "Address": "300 W Adams St #500, Chicago, IL 60606, USA",
+    "Website": "http://www.immattyllp.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Law Office of O'Grady & Associates, P.C.",
+    "Phone": "(312) 338-1808",
+    "Address": "1 N LaSalle St # 450, Chicago, IL 60602, USA",
+    "Website": "http://www.ogradylaw.net/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Patton & Ryan LLC",
+    "Phone": "(312) 261-5160",
+    "Address": "330 N Wabash Ave, Chicago, IL 60611, USA",
+    "Website": "http://pattonryan.com/",
+    "Google Rating": 1
+  },
+  {
+    "Name": "Coffey Law Office PC",
+    "Phone": "(312) 627-9700",
+    "Address": "351 W Hubbard St # 602, Chicago, IL 60654, USA",
+    "Website": "http://www.employmentlawcounsel.com/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "American Bar Endowment",
+    "Phone": "(800) 621-8981",
+    "Address": "321 N Clark St, Chicago, IL 60654, USA",
+    "Website": "http://www.abendowment.org/",
+    "Google Rating": 3
+  },
+  {
+    "Name": "Michael H Erde, P.C.",
+    "Phone": "(773) 286-3800",
+    "Address": "4801 W Peterson Ave, Chicago, IL 60646, USA",
+    "Website": "http://www.erdelaw.com/",
+    "Google Rating": 2
+  },
+  {
+    "Name": "Financial Freedom Advisors",
+    "Phone": "(866) 532-5000",
+    "Address": "6th, 215 W Ohio St, Chicago, IL 60654, USA",
+    "Website": "http://www.oxfordtaxpartners.com/",
+    "Google Rating": 3
+  }
+]

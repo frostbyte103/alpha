@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "BuzBiz",
+    "description": "This project is really great.",
+    "slug": "buzbiz",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.realmitch.buzbiz",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAS9qJ_KocYUJ8AeNhnC3o9dtw9rbGDIho"
+        }
+      },
+      "publishBundlePath": "android\\app\\src\\main\\assets\\shell-app.bundle",
+      "publishManifestPath": "android\\app\\src\\main\\assets\\shell-app-manifest.json"
+    },
+    "isDetached": true,
+    "detach": {
+      "scheme": "expc56278e068d94d909675f82bb83d9363",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.3.0-sdk25.0.0-0c32461b-a7c6-4ddc-b85b-32a80c4f18d9.tar.gz"
+    },
+    "scheme": "expc56278e068d94d909675f82bb83d9363"
+  }
+}
